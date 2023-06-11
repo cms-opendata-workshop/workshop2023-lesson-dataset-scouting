@@ -88,10 +88,16 @@ you might have to shift your analysis to a different dataset once all calibratio
 **Data format**
 
 * **RAW** files contain information directly from the detector in the form of hits from the TDCs/ADCs. 
+(TDC refers to to *[Time to Digital Converter](https://en.wikipedia.org/wiki/Time-to-digital_converter)* and 
+ADC refers to to *[Analog to Digital Converter](https://en.wikipedia.org/wiki/Analog-to-digital_converter)*. 
+Both of these are pieces of electronics which convert signals from the components of the CMS detector to 
+digital signals which are then stored for later analysis.)
 These files are not a focus of this workshop. 
 * **AOD** stands for *Analysis Object Data*. This is the first stage of data where analysts can really start
 physics analysis. 
 * **MINIAOD** is a slimmer format of AOD, in use from Run 2 open data on. Often, the experiment will slim this down and drop some subsets of the data stream into *NanoAOD*, but the current open data were not yet reprocessed in that format.
+
+
 
 ### Further information
 
@@ -128,7 +134,7 @@ more about this in the upcoming trigger exercise.
 For now, let's look at some of the Monte Carlo datasets that are available to you. 
 
 > ## Make some selections! But first make some unselections!
-> Unselect everthing except for **CMS**, **Dataset**, **Simulated** (under **Dataset**) and **2012**.  
+> Unselect everything except for **2012**, **CMS**, **Dataset**, and **Simulated** (under **Dataset**).  
 > 
 > Next, select a new button near the top of the left-hand sidebar, **include on-demand datasets**. 
 > This will give us some search options related to the Monte Carlo samples. 

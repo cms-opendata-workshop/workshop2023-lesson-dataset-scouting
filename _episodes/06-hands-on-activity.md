@@ -35,6 +35,8 @@ energy for those years?
 > Select the CMS *collision* data for 2015. Select only the MINIAOD data. Do you remember what the MINIAOD data are?
 >
 > Choose one dataset and identify different triggers that were used to direct events in this dataset. What do you think they are triggering on? 
+>
+> *If you are unfamilar with what triggers are, check out [the "Introduction" from a previous workshop](https://cms-opendata-workshop.github.io/workshop2022-lesson-trigger/).*
 {: .challenge}
 
 > ## Let's review!

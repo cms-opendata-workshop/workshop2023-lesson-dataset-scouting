@@ -34,6 +34,19 @@ In this lesson, we'll walk through the process of finding out what data and
 Monte Carlo are available to you, how to find them, and how to examine what 
 data are in the individual data files. 
 
+> ## What is a Monte Carlo dataset?
+> You'll often hear about physicists using *Monte Carlo data* or sometimes just referring to
+> *Monte Carlo*. In both cases, we are referring to *simulations* of different physics processes, 
+> which then mimics how the particles would move through the CMS detector and how they
+> might be affected (on average) as they pass through the material. This data is then 
+> processed just like the "real" data (referred to as *collider data*). 
+> 
+> In this way, the analysts can see how the detector records different physics processes
+> and best understand how these processes "look" when we analyze the data. This better
+> helps us understand both the signal that we are looking for and the backgrounds
+> which might hide what we are looking for. 
+{: .callout}
+
 First of all, let's understand how the data are stored and why we need certain
 tools to access them. 
 
