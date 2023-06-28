@@ -17,7 +17,7 @@ what is stored in them.
 
 If you run into problems with any of these steps, please reach out to the organizers
 through the dedicated [Mattermost channel for this lesson](https://mattermost.web.cern.ch/cmsodws2023/channels/datasets-pre-exercise).
-General questions about the workshop as a whole can be posted on the [Mattermost channel for the workshop][mattermost].
+General questions about the workshop as a whole can be posted on the [Mattermost channel for the workshop](https://mattermost.web.cern.ch/cmsodws2023/channels/town-square).
 
 
 {% comment %} This is a comment in Liquid {% endcomment %}
