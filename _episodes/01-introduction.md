@@ -16,7 +16,7 @@ keypoints:
 > ## Ready to go?
 > The 3/4 of this lesson is done entirely in the browser. 
 > 
-> However, [Episode 4: What is in the data files?](https://cms-opendata-workshop.github.io/workshop2022-lesson-dataset-scouting/04-what-is-in-the-data/index.html), requires the use of a running CMSSW environment in the CMS open data Docker container. Make sure you have completed the [Docker pre-exercise](https://cms-opendata-workshop.github.io/workshop2022-lesson-docker/).
+> However, [Episode 4: What is in the data files?](https://cms-opendata-workshop.github.io/workshop2023-lesson-dataset-scouting/04-what-is-in-the-data/index.html), requires the use of a running CMSSW environment in the CMS open data Docker container. Make sure you have completed the [Docker pre-exercise](https://cms-opendata-workshop.github.io/workshop2023-lesson-docker/).
 {: .callout}
 
 > ## You've got a great idea! What's next?
