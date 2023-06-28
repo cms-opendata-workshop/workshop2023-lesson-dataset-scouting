@@ -17,7 +17,7 @@ All commands will be typed inside that environment.
 
 ## Go to your CMSSW area
 
-If you completed the lesson on [Docker](https://cms-opendata-workshop.github.io/workshop2022-lesson-docker) you should already have a working CMSSW area.  
+If you completed the lesson on [Docker](https://cms-opendata-workshop.github.io/workshop2023-lesson-docker) you should already have a working CMSSW area.  
 
 Restart your existing `my_od` container with:
 ~~~
@@ -121,7 +121,7 @@ Some of the other command-line options can be useful as well to filter the infor
 > edmDumpEventContent --name root://eospublic.cern.ch//eos/opendata/cms/mc/RunIIFall15MiniAODv2/DYJetsToLL_M-5to50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/MINIAODSIM/PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/00000/029FD4E8-26DE-E511-92E9-0CC47A78A45A.root
 > ~~~
 >
-> This is a good time to answer the question in the [assignment form](https://forms.gle/7YYRv6ZCTfRYiocr7).
+> This is a good time to answer the question in the [assignment form](https://docs.google.com/forms/d/e/1FAIpQLSfinzqqOt3tNOchikFQRoA4EYnJXuWOV1JBWTBCPnELM-86AA/viewform).
 >
 > {: .language-bash}
 {: .callout}
