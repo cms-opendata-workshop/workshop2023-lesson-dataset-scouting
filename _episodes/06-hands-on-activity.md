@@ -15,7 +15,7 @@ keypoints:
 Let's review some of the concepts we covered in the previous episodes. You are encouraged
 to go back and engage with those episodes in order to answer these questions. 
 
-You can post questions on the [Mattermost](https://mattermost.web.cern.ch/cmsodws2022/channels/datasets-pre-exercise) channel for this exercise. 
+You can post questions on the [Mattermost](https://mattermost.web.cern.ch/cmsodws2023/channels/datasets-pre-exercise) channel for this exercise. 
 
 > ## Let's review! 
 > Can you get to the starting page for the CMS Open Data Portal? Can you select

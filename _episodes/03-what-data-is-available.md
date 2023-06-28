@@ -203,7 +203,7 @@ check scroll down the sidebar until you come to *Filter by category*.
 You may have to do a bit of poking around to find the dataset that is most appropriate for what
 you want to do, but remember, 
 you can always reach out to the organizers through 
-[Mattermost](https://mattermost.web.cern.ch/cmsodws2022/channels/town-square).
+[Mattermost](https://mattermost.web.cern.ch/cmsodws2023/channels/town-square).
 
 
 ## Summary
